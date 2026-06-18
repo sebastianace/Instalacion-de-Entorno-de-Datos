@@ -26,13 +26,13 @@ El proceso se realizó en tres fases principales:
 ## Galería de Evidencias
 
 ### Captura 1 — Instalación / Descarga completada
-![Instalador de MySQL en ejecución](imagenes_MySQL/Instalador de MySQL en ejecución.png)
-
+![Instalador de MySQL en ejecución](img/captura1.png)
+ 
 ### Captura 2 — Configuración de la contraseña del usuario root
-![Configuración de credenciales del usuario root](imagenes_MySQL/Configuración de credenciales del usuario root.png)
-
+![Configuración de credenciales del usuario root](img/captura2.png)
+ 
 ### Captura 3 — MySQL Workbench con la conexión Local Instance
-![MySQL Workbench con la conexión Local Instance creada](imagenes_MySQL/MySQL Workbench con la conexión Local Instance creada.png)
+![MySQL Workbench con la conexión Local Instance creada](img/captura3.png)
 
 ---
 
@@ -49,4 +49,4 @@ SELECT VERSION() AS 'Versión de MySQL',
 
 El resultado confirma la **versión de MySQL** instalada, el **usuario** conectado y la **fecha y hora** del servidor:
 
-![Resultado de la consulta de validación](imagenes_MySQL/Resultado de la consulta de validación.png)
+![Resultado de la consulta de validación](img/captura4.png)
